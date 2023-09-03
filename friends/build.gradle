@@ -1,0 +1,8 @@
+group 'com.zidik.app'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}
